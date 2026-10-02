@@ -1,7 +1,5 @@
 # Flask App on AWS Elastic Beanstalk
 
-![CI](https://github.com/cnwanze-cloud/eb-flask-app/actions/workflows/ci.yml/badge.svg)
-
 A simple Python Flask web application deployed to AWS Elastic Beanstalk using the EB CLI from a Windows machine. This project demonstrates deploying a WSGI application to managed AWS infrastructure, configuring it with environment variables, and monitoring it through logs and health checks.
 
 ## Architecture
